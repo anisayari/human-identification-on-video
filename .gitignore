@@ -1,2 +1,4 @@
 utils/__pycache__/*
 utils/yolov5/
+*/*.mp4
+*.mp4
