@@ -1,7 +1,7 @@
 # Human identification on Youtube video
 
 Try it on Colab :
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBlC3xPjrTSEu6oSGYDrD-r3bhHUb36f?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBlC3xPjrTSEu6oSGYDrD-r3bhHUb36f?usp=sharing)
 
 
 ## Installation
