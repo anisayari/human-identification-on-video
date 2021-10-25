@@ -1,0 +1,5 @@
+pytube
+imagehash
+facenet-pytorch
+ plotly
+ scikit-learn
