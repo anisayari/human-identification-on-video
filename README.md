@@ -22,5 +22,5 @@ python run.py <YOUTUBE_VIDEO_URL>
 
 For example :
 ```
-'https://www.youtube.com/watch?v=keOaQm6RpBg'
+python run.py 'https://www.youtube.com/watch?v=keOaQm6RpBg'
 ```
