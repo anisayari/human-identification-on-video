@@ -3,6 +3,8 @@
 Try it on Colab :
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBlC3xPjrTSEu6oSGYDrD-r3bhHUb36f?usp=sharing)
 
+![Alt Text](https://github.com/anisayari/faceHIDEE/blob/master/run.gif?raw=true)
+
 
 ## Installation
 ```
