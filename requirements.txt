@@ -1,3 +1,4 @@
+ipython
 pytube
 imagehash
 facenet-pytorch

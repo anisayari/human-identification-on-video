@@ -1,4 +1,6 @@
-utils/__pycache__/*
-utils/yolov5/
+__pycache__/
+*.py[cod]
+*$py.class
+
 */*.mp4
 *.mp4

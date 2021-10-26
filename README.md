@@ -8,11 +8,9 @@ Try it on Colab :
 
 ## Installation
 ```
+git clone --recurse-submodules https://github.com/anisayari/human-identification-on-video.git
 pip install -r requirements.txt
-cd utils
-git clone https://github.com/ultralytics/yolov5
-cd yolov5
-pip install -r requirements.txt
+pip install -r functions/yolov5/requirements.txt
 ```
 
 ## Running in one commande line
